@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Michael and I'm interested in robotics, controls, and embedded systems
 
 <!--
 **skillroy/skillroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
